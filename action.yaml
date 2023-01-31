@@ -1,0 +1,8 @@
+name: 'Knatschsack's Keyword Releaser'
+description: 'Creates releases based on a keyword'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'gift'
+  color: 'blue'
